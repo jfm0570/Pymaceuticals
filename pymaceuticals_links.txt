@@ -1,0 +1,4 @@
+https://sparkbyexamples.com/pandas/pandas-combine-two-columns-of-text-in-dataframe/
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.head.html
+https://stackoverflow.com/questions/14657241/how-do-i-get-a-list-of-all-the-duplicate-items-using-pandas-in-python
+https://stackoverflow.com/questions/43184491/df-unique-on-whole-dataframe-based-on-a-column
